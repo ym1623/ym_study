@@ -1,4 +1,5 @@
 <?php
+	//test
 	ini_set('max_execution_time', '0');
 	require_once dirname(__FILE__).'./phpQuery.php';
 	require_once dirname(__FILE__).'./Snoopy.class.php';
